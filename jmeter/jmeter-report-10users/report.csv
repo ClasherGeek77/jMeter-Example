@@ -1,0 +1,221 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1674027129108,282,auth-register-invalid,400,Bad Request,Thread Group 1-4,text,true,,310,540,6,6,https://altashop-api.fly.dev/api/auth/register,282,0,215
+1674027128907,487,auth-register-invalid,400,Bad Request,Thread Group 1-2,text,true,,310,540,6,6,https://altashop-api.fly.dev/api/auth/register,487,0,419
+1674027129331,86,auth-register-invalid,400,Bad Request,Thread Group 1-6,text,true,,310,540,7,7,https://altashop-api.fly.dev/api/auth/register,86,0,59
+1674027129014,379,auth-register-invalid,400,Bad Request,Thread Group 1-3,text,true,,310,540,6,6,https://altashop-api.fly.dev/api/auth/register,379,0,316
+1674027129210,180,auth-register-invalid,400,Bad Request,Thread Group 1-5,text,true,,310,540,6,6,https://altashop-api.fly.dev/api/auth/register,179,0,114
+1674027128874,519,auth-register-invalid,400,Bad Request,Thread Group 1-1,text,true,,310,540,6,6,https://altashop-api.fly.dev/api/auth/register,519,0,449
+1674027129428,58,auth-register,200,OK,Thread Group 1-1,text,true,,369,574,7,7,https://altashop-api.fly.dev/api/auth/register,58,0,0
+1674027129425,59,auth-register,200,OK,Thread Group 1-4,text,true,,369,574,7,7,https://altashop-api.fly.dev/api/auth/register,59,0,0
+1674027129425,60,auth-register,200,OK,Thread Group 1-3,text,true,,369,574,7,7,https://altashop-api.fly.dev/api/auth/register,60,0,0
+1674027129427,63,auth-register,200,OK,Thread Group 1-6,text,true,,369,574,7,7,https://altashop-api.fly.dev/api/auth/register,62,0,0
+1674027129426,64,auth-register,200,OK,Thread Group 1-2,text,true,,369,574,7,7,https://altashop-api.fly.dev/api/auth/register,63,0,0
+1674027129426,83,auth-register,200,OK,Thread Group 1-5,text,true,,369,574,8,8,https://altashop-api.fly.dev/api/auth/register,83,0,0
+1674027129489,39,auth-login-invalid,400,Bad Request,Thread Group 1-3,text,true,,309,530,8,8,https://altashop-api.fly.dev/api/auth/login,39,0,0
+1674027129396,132,auth-register-invalid,400,Bad Request,Thread Group 1-7,text,true,,310,540,8,8,https://altashop-api.fly.dev/api/auth/register,132,0,92
+1674027129490,39,auth-login-invalid,400,Bad Request,Thread Group 1-6,text,true,,309,530,8,8,https://altashop-api.fly.dev/api/auth/login,39,0,0
+1674027129487,43,auth-login-invalid,400,Bad Request,Thread Group 1-1,text,true,,309,530,8,8,https://altashop-api.fly.dev/api/auth/login,43,0,0
+1674027129510,47,auth-login-invalid,400,Bad Request,Thread Group 1-5,text,true,,309,530,8,8,https://altashop-api.fly.dev/api/auth/login,47,0,0
+1674027129530,65,auth-login,200,OK,Thread Group 1-1,text,true,,445,532,8,8,https://altashop-api.fly.dev/api/auth/login,65,0,0
+1674027129490,106,auth-login-invalid,400,Bad Request,Thread Group 1-2,text,true,,309,530,8,8,https://altashop-api.fly.dev/api/auth/login,106,0,0
+1674027129529,68,auth-login,200,OK,Thread Group 1-3,text,true,,445,532,8,8,https://altashop-api.fly.dev/api/auth/login,68,0,0
+1674027129558,40,auth-login,200,OK,Thread Group 1-5,text,true,,445,532,8,8,https://altashop-api.fly.dev/api/auth/login,40,0,0
+1674027129488,116,auth-login-invalid,400,Bad Request,Thread Group 1-4,text,true,,309,530,9,9,https://altashop-api.fly.dev/api/auth/login,116,0,0
+1674027129498,107,auth-register-invalid,400,Bad Request,Thread Group 1-8,text,true,,310,540,9,9,https://altashop-api.fly.dev/api/auth/register,107,0,65
+1674027129530,83,auth-register,200,OK,Thread Group 1-7,text,true,,369,574,9,9,https://altashop-api.fly.dev/api/auth/register,83,0,0
+1674027129529,123,auth-login,200,OK,Thread Group 1-6,text,true,,445,532,9,9,https://altashop-api.fly.dev/api/auth/login,84,0,0
+1674027129597,56,auth-login,200,OK,Thread Group 1-2,text,true,,445,532,9,9,https://altashop-api.fly.dev/api/auth/login,56,0,0
+1674027129599,54,auth-info,200,OK,Thread Group 1-5,text,true,,359,405,9,9,https://altashop-api.fly.dev/api/auth/info,54,0,0
+1674027129598,56,auth-info,200,OK,Thread Group 1-3,text,true,,359,405,9,9,https://altashop-api.fly.dev/api/auth/info,55,0,0
+1674027129614,40,auth-login-invalid,400,Bad Request,Thread Group 1-7,text,true,,309,530,9,9,https://altashop-api.fly.dev/api/auth/login,40,0,0
+1674027129606,52,auth-register,200,OK,Thread Group 1-8,text,true,,368,572,9,9,https://altashop-api.fly.dev/api/auth/register,52,0,0
+1674027129605,78,auth-login,200,OK,Thread Group 1-4,text,true,,445,532,9,9,https://altashop-api.fly.dev/api/auth/login,78,0,0
+1674027129596,88,auth-info,200,OK,Thread Group 1-1,text,true,,359,405,9,9,https://altashop-api.fly.dev/api/auth/info,87,0,0
+1674027129654,46,auth-login,200,OK,Thread Group 1-7,text,true,,445,532,10,10,https://altashop-api.fly.dev/api/auth/login,46,0,0
+1674027129654,92,auth-info,200,OK,Thread Group 1-6,text,true,,359,405,10,10,https://altashop-api.fly.dev/api/auth/info,92,0,0
+1674027129600,146,auth-register-invalid,400,Bad Request,Thread Group 1-9,text,true,,310,540,10,10,https://altashop-api.fly.dev/api/auth/register,146,0,88
+1674027129653,111,auth-info,200,OK,Thread Group 1-2,text,true,,359,405,10,10,https://altashop-api.fly.dev/api/auth/info,93,0,0
+1674027129658,119,auth-login-invalid,400,Bad Request,Thread Group 1-8,text,true,,309,530,10,10,https://altashop-api.fly.dev/api/auth/login,119,0,0
+1674027129777,59,auth-login,200,OK,Thread Group 1-8,text,true,,440,530,10,10,https://altashop-api.fly.dev/api/auth/login,59,0,0
+1674027129700,136,auth-info,200,OK,Thread Group 1-7,text,true,,359,405,10,10,https://altashop-api.fly.dev/api/auth/info,136,0,0
+1674027129693,143,auth-register-invalid,400,Bad Request,Thread Group 1-10,text,true,,310,540,10,10,https://altashop-api.fly.dev/api/auth/register,143,0,74
+1674027129683,154,auth-info,200,OK,Thread Group 1-4,text,true,,359,405,10,10,https://altashop-api.fly.dev/api/auth/info,154,0,0
+1674027129746,91,auth-register,200,OK,Thread Group 1-9,text,true,,369,574,10,10,https://altashop-api.fly.dev/api/auth/register,91,0,0
+1674027129838,40,auth-login-invalid,400,Bad Request,Thread Group 1-9,text,true,,309,530,10,10,https://altashop-api.fly.dev/api/auth/login,39,0,0
+1674027129878,115,auth-login,200,OK,Thread Group 1-9,text,true,,445,532,10,10,https://altashop-api.fly.dev/api/auth/login,115,0,0
+1674027129837,156,auth-register,200,OK,Thread Group 1-10,text,true,,369,574,10,10,https://altashop-api.fly.dev/api/auth/register,156,0,0
+1674027129836,158,auth-info,200,OK,Thread Group 1-8,text,true,,359,405,10,10,https://altashop-api.fly.dev/api/auth/info,158,0,0
+1674027129993,50,auth-info,200,OK,Thread Group 1-9,text,true,,359,405,10,10,https://altashop-api.fly.dev/api/auth/info,50,0,0
+1674027129994,49,auth-login-invalid,400,Bad Request,Thread Group 1-10,text,true,,309,530,10,10,https://altashop-api.fly.dev/api/auth/login,49,0,0
+1674027130043,294,auth-login,200,OK,Thread Group 1-10,text,true,,445,532,10,10,https://altashop-api.fly.dev/api/auth/login,294,0,0
+1674027130338,33,auth-info,200,OK,Thread Group 1-10,text,true,,359,405,10,10,https://altashop-api.fly.dev/api/auth/info,33,0,0
+1674027129653,5300,products-get-all-items,200,OK,Thread Group 1-5,text,true,,24598,404,10,10,https://altashop-api.fly.dev/api/products,5280,0,0
+1674027134953,44,products-create-item,200,OK,Thread Group 1-5,text,true,,427,595,10,10,https://altashop-api.fly.dev/api/products,44,0,0
+1674027134998,42,products-get-by-id,200,OK,Thread Group 1-5,text,true,,427,409,10,10,https://altashop-api.fly.dev/api/products/8697,41,0,0
+1674027135040,26,products-get-by-id-invalid,404,Not Found,Thread Group 1-5,text,true,,307,406,10,10,https://altashop-api.fly.dev/api/products/0,26,0,0
+1674027135066,61,products-set-item-rating,200,OK,Thread Group 1-5,text,true,,427,490,10,10,https://altashop-api.fly.dev/api/products/8697/ratings,61,0,0
+1674027135127,54,products-set-item-rating-invalid,500,Internal Server Error,Thread Group 1-5,text,true,,398,490,10,10,https://altashop-api.fly.dev/api/products/8697/ratings,54,0,0
+1674027129746,5464,products-get-all-items,200,OK,Thread Group 1-6,text,true,,24732,404,10,10,https://altashop-api.fly.dev/api/products,5427,0,0
+1674027135181,52,products-get-item-rating,200,OK,Thread Group 1-5,text,true,,282,417,10,10,https://altashop-api.fly.dev/api/products/8697/ratings,29,0,0
+1674027129655,5590,products-get-all-items,200,OK,Thread Group 1-3,text,true,,24434,404,10,10,https://altashop-api.fly.dev/api/products,5554,0,0
+1674027135210,105,products-create-item,200,OK,Thread Group 1-6,text,true,,426,594,10,10,https://altashop-api.fly.dev/api/products,105,0,0
+1674027135233,86,products-set-item-comment,200,OK,Thread Group 1-5,text,true,,348,506,10,10,https://altashop-api.fly.dev/api/products/8697/comments,85,0,0
+1674027135245,74,products-create-item,200,OK,Thread Group 1-3,text,true,,425,595,10,10,https://altashop-api.fly.dev/api/products,73,0,0
+1674027129765,5581,products-get-all-items,200,OK,Thread Group 1-2,text,true,,24630,404,10,10,https://altashop-api.fly.dev/api/products,5550,0,0
+1674027129684,5662,products-get-all-items,200,OK,Thread Group 1-1,text,true,,24331,404,10,10,https://altashop-api.fly.dev/api/products,5631,0,0
+1674027135316,61,products-get-by-id,200,OK,Thread Group 1-6,text,true,,426,409,10,10,https://altashop-api.fly.dev/api/products/8698,61,0,0
+1674027135319,69,products-get-item-comment,200,OK,Thread Group 1-5,text,true,,350,418,10,10,https://altashop-api.fly.dev/api/products/8697/comments,69,0,0
+1674027135319,88,products-get-by-id,200,OK,Thread Group 1-3,text,true,,425,409,10,10,https://altashop-api.fly.dev/api/products/8699,88,0,0
+1674027135377,30,products-get-by-id-invalid,404,Not Found,Thread Group 1-6,text,true,,307,406,10,10,https://altashop-api.fly.dev/api/products/0,30,0,0
+1674027135389,30,products-delete-item,200,OK,Thread Group 1-5,text,true,,285,495,10,10,https://altashop-api.fly.dev/api/products/8697,30,0,0
+1674027135346,73,products-create-item,200,OK,Thread Group 1-2,text,true,,427,595,10,10,https://altashop-api.fly.dev/api/products,73,0,0
+1674027135346,73,products-create-item,200,OK,Thread Group 1-1,text,true,,426,595,10,10,https://altashop-api.fly.dev/api/products,73,0,0
+1674027135408,34,products-get-by-id-invalid,404,Not Found,Thread Group 1-3,text,true,,307,406,10,10,https://altashop-api.fly.dev/api/products/0,34,0,0
+1674027135420,122,products-get-by-id,200,OK,Thread Group 1-2,text,true,,427,409,10,10,https://altashop-api.fly.dev/api/products/8700,122,0,0
+1674027135420,122,products-get-by-id,200,OK,Thread Group 1-1,text,true,,426,409,10,10,https://altashop-api.fly.dev/api/products/8701,122,0,0
+1674027135419,124,products-delete-item-invalid,500,Internal Server Error,Thread Group 1-5,text,true,,328,492,10,10,https://altashop-api.fly.dev/api/products/0,123,0,0
+1674027135442,102,products-set-item-rating,200,OK,Thread Group 1-3,text,true,,425,490,10,10,https://altashop-api.fly.dev/api/products/8699/ratings,102,0,0
+1674027135408,136,products-set-item-rating,200,OK,Thread Group 1-6,text,true,,426,490,10,10,https://altashop-api.fly.dev/api/products/8698/ratings,136,0,0
+1674027129837,5802,products-get-all-items,200,OK,Thread Group 1-4,text,true,,24543,404,10,10,https://altashop-api.fly.dev/api/products,5706,0,0
+1674027135543,208,categories-create-cateogry,200,OK,Thread Group 1-5,text,true,,340,526,10,10,https://altashop-api.fly.dev/api/categories,208,0,0
+1674027135543,208,products-get-by-id-invalid,404,Not Found,Thread Group 1-1,text,true,,307,406,10,10,https://altashop-api.fly.dev/api/products/0,208,0,0
+1674027130043,5708,products-get-all-items,200,OK,Thread Group 1-9,text,true,,24136,404,10,10,https://altashop-api.fly.dev/api/products,5526,0,0
+1674027129995,5757,products-get-all-items,200,OK,Thread Group 1-8,text,true,,24143,404,10,10,https://altashop-api.fly.dev/api/products,5644,0,0
+1674027135544,208,products-set-item-rating-invalid,500,Internal Server Error,Thread Group 1-6,text,true,,398,490,10,10,https://altashop-api.fly.dev/api/products/8698/ratings,208,0,0
+1674027135640,112,products-create-item,200,OK,Thread Group 1-4,text,true,,426,594,10,10,https://altashop-api.fly.dev/api/products,112,0,0
+1674027135543,209,products-get-by-id-invalid,404,Not Found,Thread Group 1-2,text,true,,307,406,10,10,https://altashop-api.fly.dev/api/products/0,209,0,0
+1674027135544,208,products-set-item-rating-invalid,500,Internal Server Error,Thread Group 1-3,text,true,,398,490,10,10,https://altashop-api.fly.dev/api/products/8699/ratings,207,0,0
+1674027129836,5917,products-get-all-items,200,OK,Thread Group 1-7,text,true,,25029,404,10,10,https://altashop-api.fly.dev/api/products,5706,0,0
+1674027130371,5421,products-get-all-items,200,OK,Thread Group 1-10,text,true,,24416,404,10,10,https://altashop-api.fly.dev/api/products,5387,0,0
+1674027135753,81,products-get-item-rating,200,OK,Thread Group 1-3,text,true,,282,417,10,10,https://altashop-api.fly.dev/api/products/8699/ratings,81,0,0
+1674027135752,100,products-get-item-rating,200,OK,Thread Group 1-6,text,true,,282,417,10,10,https://altashop-api.fly.dev/api/products/8698/ratings,100,0,0
+1674027135751,128,categories-get-by-id,200,OK,Thread Group 1-5,text,true,,337,408,10,10,https://altashop-api.fly.dev/api/categories/1,128,0,0
+1674027135834,52,products-set-item-comment,200,OK,Thread Group 1-3,text,true,,348,506,10,10,https://altashop-api.fly.dev/api/products/8699/comments,52,0,0
+1674027135792,94,products-create-item,200,OK,Thread Group 1-10,text,true,,427,595,10,10,https://altashop-api.fly.dev/api/products,94,0,0
+1674027135852,49,products-set-item-comment,200,OK,Thread Group 1-6,text,true,,348,506,10,10,https://altashop-api.fly.dev/api/products/8698/comments,49,0,0
+1674027135752,149,products-create-item,200,OK,Thread Group 1-9,text,true,,427,595,10,10,https://altashop-api.fly.dev/api/products,149,0,0
+1674027135752,173,products-create-item,200,OK,Thread Group 1-8,text,true,,427,595,10,10,https://altashop-api.fly.dev/api/products,173,0,0
+1674027135887,50,products-get-item-comment,200,OK,Thread Group 1-3,text,true,,350,418,10,10,https://altashop-api.fly.dev/api/products/8699/comments,50,0,0
+1674027135751,186,products-set-item-rating,200,OK,Thread Group 1-1,text,true,,426,490,10,10,https://altashop-api.fly.dev/api/products/8701/ratings,186,0,0
+1674027135752,186,products-get-by-id,200,OK,Thread Group 1-4,text,true,,426,409,10,10,https://altashop-api.fly.dev/api/products/8702,186,0,0
+1674027135753,193,products-create-item,200,OK,Thread Group 1-7,text,true,,426,594,10,10,https://altashop-api.fly.dev/api/products,193,0,0
+1674027135901,58,products-get-by-id,200,OK,Thread Group 1-9,text,true,,427,409,10,10,https://altashop-api.fly.dev/api/products/8704,58,0,0
+1674027135753,206,products-set-item-rating,200,OK,Thread Group 1-2,text,true,,427,490,10,10,https://altashop-api.fly.dev/api/products/8700/ratings,206,0,0
+1674027135887,86,products-get-by-id,200,OK,Thread Group 1-10,text,true,,427,409,10,10,https://altashop-api.fly.dev/api/products/8703,86,0,0
+1674027135901,73,products-get-item-comment,200,OK,Thread Group 1-6,text,true,,350,418,10,10,https://altashop-api.fly.dev/api/products/8698/comments,73,0,0
+1674027135925,50,products-get-by-id,200,OK,Thread Group 1-8,text,true,,427,409,10,10,https://altashop-api.fly.dev/api/products/8705,50,0,0
+1674027135937,38,products-delete-item,200,OK,Thread Group 1-3,text,true,,285,495,10,10,https://altashop-api.fly.dev/api/products/8699,37,0,0
+1674027135938,139,products-get-by-id-invalid,404,Not Found,Thread Group 1-4,text,true,,307,406,10,10,https://altashop-api.fly.dev/api/products/0,139,0,0
+1674027135974,103,products-get-by-id-invalid,404,Not Found,Thread Group 1-10,text,true,,307,406,10,10,https://altashop-api.fly.dev/api/products/0,103,0,0
+1674027135879,199,categories-get-all-category,200,OK,Thread Group 1-5,text,true,,49898,406,10,10,https://altashop-api.fly.dev/api/categories,63,0,0
+1674027135959,119,products-get-by-id-invalid,404,Not Found,Thread Group 1-9,text,true,,307,406,10,10,https://altashop-api.fly.dev/api/products/0,119,0,0
+1674027135980,99,products-delete-item-invalid,500,Internal Server Error,Thread Group 1-3,text,true,,328,492,10,10,https://altashop-api.fly.dev/api/products/0,99,0,0
+1674027135980,99,products-get-by-id-invalid,404,Not Found,Thread Group 1-8,text,true,,307,406,10,10,https://altashop-api.fly.dev/api/products/0,99,0,0
+1674027135937,145,products-set-item-rating-invalid,500,Internal Server Error,Thread Group 1-1,text,true,,398,490,10,10,https://altashop-api.fly.dev/api/products/8701/ratings,143,0,0
+1674027135959,123,products-set-item-rating-invalid,500,Internal Server Error,Thread Group 1-2,text,true,,398,490,10,10,https://altashop-api.fly.dev/api/products/8700/ratings,123,0,0
+1674027135975,107,products-delete-item,200,OK,Thread Group 1-6,text,true,,285,495,10,10,https://altashop-api.fly.dev/api/products/8698,107,0,0
+1674027135947,135,products-get-by-id,200,OK,Thread Group 1-7,text,true,,426,409,10,10,https://altashop-api.fly.dev/api/products/8706,135,0,0
+1674027136079,104,categories-create-cateogry,200,OK,Thread Group 1-3,text,true,,340,526,10,10,https://altashop-api.fly.dev/api/categories,104,0,0
+1674027136078,105,products-set-item-rating,200,OK,Thread Group 1-9,text,true,,427,490,10,10,https://altashop-api.fly.dev/api/products/8704/ratings,105,0,0
+1674027136083,100,products-get-item-rating,200,OK,Thread Group 1-2,text,true,,282,417,10,10,https://altashop-api.fly.dev/api/products/8700/ratings,100,0,0
+1674027136083,100,products-delete-item-invalid,500,Internal Server Error,Thread Group 1-6,text,true,,328,492,10,10,https://altashop-api.fly.dev/api/products/0,100,0,0
+1674027136083,101,products-get-item-rating,200,OK,Thread Group 1-1,text,true,,282,417,10,10,https://altashop-api.fly.dev/api/products/8701/ratings,101,0,0
+1674027136083,101,products-get-by-id-invalid,404,Not Found,Thread Group 1-7,text,true,,307,406,10,10,https://altashop-api.fly.dev/api/products/0,101,0,0
+1674027136078,169,orders-create-order,200,OK,Thread Group 1-5,text,true,,404,520,10,10,https://altashop-api.fly.dev/api/orders,169,0,0
+1674027136184,63,categories-get-by-id,200,OK,Thread Group 1-3,text,true,,337,408,10,10,https://altashop-api.fly.dev/api/categories/1,63,0,0
+1674027136078,169,products-set-item-rating,200,OK,Thread Group 1-4,text,true,,426,490,10,10,https://altashop-api.fly.dev/api/products/8702/ratings,169,0,0
+1674027136184,63,products-set-item-comment,200,OK,Thread Group 1-1,text,true,,348,506,10,10,https://altashop-api.fly.dev/api/products/8701/comments,63,0,0
+1674027136079,168,products-set-item-rating,200,OK,Thread Group 1-8,text,true,,427,490,10,10,https://altashop-api.fly.dev/api/products/8705/ratings,168,0,0
+1674027136080,167,products-set-item-rating,200,OK,Thread Group 1-10,text,true,,427,490,10,10,https://altashop-api.fly.dev/api/products/8703/ratings,167,0,0
+1674027136184,66,products-set-item-rating-invalid,500,Internal Server Error,Thread Group 1-9,text,true,,398,490,10,10,https://altashop-api.fly.dev/api/products/8704/ratings,66,0,0
+1674027136184,84,categories-create-cateogry,200,OK,Thread Group 1-6,text,true,,340,526,10,10,https://altashop-api.fly.dev/api/categories,84,0,0
+1674027136184,84,products-set-item-comment,200,OK,Thread Group 1-2,text,true,,348,506,10,10,https://altashop-api.fly.dev/api/products/8700/comments,84,0,0
+1674027136184,98,products-set-item-rating,200,OK,Thread Group 1-7,text,true,,426,490,10,10,https://altashop-api.fly.dev/api/products/8706/ratings,98,0,0
+1674027136247,43,orders-get-by-id,200,OK,Thread Group 1-5,text,true,,394,404,10,10,https://altashop-api.fly.dev/api/orders/1,42,0,0
+1674027136269,40,products-get-item-comment,200,OK,Thread Group 1-2,text,true,,350,418,10,10,https://altashop-api.fly.dev/api/products/8700/comments,39,0,0
+1674027136248,61,products-set-item-rating-invalid,500,Internal Server Error,Thread Group 1-10,text,true,,398,490,10,10,https://altashop-api.fly.dev/api/products/8703/ratings,60,0,0
+1674027136247,129,products-get-item-comment,200,OK,Thread Group 1-1,text,true,,350,418,10,10,https://altashop-api.fly.dev/api/products/8701/comments,129,0,0
+1674027136269,107,categories-get-by-id,200,OK,Thread Group 1-6,text,true,,337,408,10,10,https://altashop-api.fly.dev/api/categories/1,107,0,0
+1674027136251,160,products-get-item-rating,200,OK,Thread Group 1-9,text,true,,282,417,10,10,https://altashop-api.fly.dev/api/products/8704/ratings,159,0,0
+1674027136282,200,products-set-item-rating-invalid,500,Internal Server Error,Thread Group 1-7,text,true,,398,490,10,10,https://altashop-api.fly.dev/api/products/8706/ratings,200,0,0
+1674027136309,174,products-delete-item,200,OK,Thread Group 1-2,text,true,,285,495,10,10,https://altashop-api.fly.dev/api/products/8700,174,0,0
+1674027136248,235,categories-get-all-category,200,OK,Thread Group 1-3,text,true,,50381,406,10,10,https://altashop-api.fly.dev/api/categories,204,0,0
+1674027136376,107,products-delete-item,200,OK,Thread Group 1-1,text,true,,285,495,10,10,https://altashop-api.fly.dev/api/products/8701,107,0,0
+1674027136309,183,products-get-item-rating,200,OK,Thread Group 1-10,text,true,,282,417,10,10,https://altashop-api.fly.dev/api/products/8703/ratings,183,0,0
+1674027136411,295,products-set-item-comment,200,OK,Thread Group 1-9,text,true,,348,506,10,10,https://altashop-api.fly.dev/api/products/8704/comments,295,0,0
+1674027136247,459,products-set-item-rating-invalid,500,Internal Server Error,Thread Group 1-8,text,true,,398,490,10,10,https://altashop-api.fly.dev/api/products/8705/ratings,459,0,0
+1674027136484,223,orders-create-order,200,OK,Thread Group 1-3,text,true,,404,520,10,10,https://altashop-api.fly.dev/api/orders,223,0,0
+1674027136247,460,products-set-item-rating-invalid,500,Internal Server Error,Thread Group 1-4,text,true,,398,490,10,10,https://altashop-api.fly.dev/api/products/8702/ratings,460,0,0
+1674027136484,224,products-delete-item-invalid,500,Internal Server Error,Thread Group 1-1,text,true,,328,492,10,10,https://altashop-api.fly.dev/api/products/0,224,0,0
+1674027136483,225,products-delete-item-invalid,500,Internal Server Error,Thread Group 1-2,text,true,,328,492,10,10,https://altashop-api.fly.dev/api/products/0,225,0,0
+1674027136493,215,products-set-item-comment,200,OK,Thread Group 1-10,text,true,,348,506,10,10,https://altashop-api.fly.dev/api/products/8703/comments,215,0,0
+1674027136376,332,categories-get-all-category,200,OK,Thread Group 1-6,text,true,,50562,406,10,10,https://altashop-api.fly.dev/api/categories,107,0,0
+1674027136483,226,products-get-item-rating,200,OK,Thread Group 1-7,text,true,,282,417,10,10,https://altashop-api.fly.dev/api/products/8706/ratings,226,0,0
+1674027136709,69,orders-create-order,200,OK,Thread Group 1-6,text,true,,404,520,10,10,https://altashop-api.fly.dev/api/orders,69,0,0
+1674027136707,80,products-get-item-comment,200,OK,Thread Group 1-9,text,true,,350,418,10,10,https://altashop-api.fly.dev/api/products/8704/comments,80,0,0
+1674027136708,89,categories-create-cateogry,200,OK,Thread Group 1-2,text,true,,340,526,10,10,https://altashop-api.fly.dev/api/categories,89,0,0
+1674027136708,101,products-get-item-comment,200,OK,Thread Group 1-10,text,true,,350,418,10,10,https://altashop-api.fly.dev/api/products/8703/comments,101,0,0
+1674027136708,101,categories-create-cateogry,200,OK,Thread Group 1-1,text,true,,340,526,10,10,https://altashop-api.fly.dev/api/categories,101,0,0
+1674027136709,101,products-set-item-comment,200,OK,Thread Group 1-7,text,true,,348,506,10,10,https://altashop-api.fly.dev/api/products/8706/comments,100,0,0
+1674027136709,112,products-get-item-rating,200,OK,Thread Group 1-4,text,true,,282,417,10,10,https://altashop-api.fly.dev/api/products/8702/ratings,112,0,0
+1674027136797,24,categories-get-by-id,200,OK,Thread Group 1-2,text,true,,337,408,10,10,https://altashop-api.fly.dev/api/categories/1,24,0,0
+1674027136778,43,orders-get-by-id,200,OK,Thread Group 1-6,text,true,,394,404,10,10,https://altashop-api.fly.dev/api/orders/1,43,0,0
+1674027136707,114,products-get-item-rating,200,OK,Thread Group 1-8,text,true,,282,417,10,10,https://altashop-api.fly.dev/api/products/8705/ratings,114,0,0
+1674027136708,113,orders-get-by-id,200,OK,Thread Group 1-3,text,true,,394,404,10,10,https://altashop-api.fly.dev/api/orders/1,113,0,0
+1674027136809,73,products-delete-item,200,OK,Thread Group 1-10,text,true,,285,495,10,10,https://altashop-api.fly.dev/api/products/8703,73,0,0
+1674027136788,94,products-delete-item,200,OK,Thread Group 1-9,text,true,,285,495,10,10,https://altashop-api.fly.dev/api/products/8704,94,0,0
+1674027136809,84,categories-get-by-id,200,OK,Thread Group 1-1,text,true,,337,408,10,10,https://altashop-api.fly.dev/api/categories/1,84,0,0
+1674027136810,186,products-get-item-comment,200,OK,Thread Group 1-7,text,true,,350,418,10,10,https://altashop-api.fly.dev/api/products/8706/comments,186,0,0
+1674027136882,114,products-delete-item-invalid,500,Internal Server Error,Thread Group 1-9,text,true,,328,492,10,10,https://altashop-api.fly.dev/api/products/0,114,0,0
+1674027136821,265,categories-get-all-category,200,OK,Thread Group 1-2,text,true,,49804,406,10,10,https://altashop-api.fly.dev/api/categories,71,0,0
+1674027136821,344,products-set-item-comment,200,OK,Thread Group 1-8,text,true,,348,506,10,10,https://altashop-api.fly.dev/api/products/8705/comments,344,0,0
+1674027136821,345,products-set-item-comment,200,OK,Thread Group 1-4,text,true,,348,506,10,10,https://altashop-api.fly.dev/api/products/8702/comments,345,0,0
+1674027136882,284,products-delete-item-invalid,500,Internal Server Error,Thread Group 1-10,text,true,,328,492,10,10,https://altashop-api.fly.dev/api/products/0,284,0,0
+1674027136996,235,products-delete-item,200,OK,Thread Group 1-7,text,true,,285,495,10,10,https://altashop-api.fly.dev/api/products/8706,235,0,0
+1674027136996,235,categories-create-cateogry,200,OK,Thread Group 1-9,text,true,,340,526,10,10,https://altashop-api.fly.dev/api/categories,235,0,0
+1674027136893,339,categories-get-all-category,200,OK,Thread Group 1-1,text,true,,50143,406,10,10,https://altashop-api.fly.dev/api/categories,272,0,0
+1674027137167,65,categories-create-cateogry,200,OK,Thread Group 1-10,text,true,,340,526,10,10,https://altashop-api.fly.dev/api/categories,65,0,0
+1674027137087,145,orders-create-order,200,OK,Thread Group 1-2,text,true,,404,520,10,10,https://altashop-api.fly.dev/api/orders,145,0,0
+1674027137165,116,products-get-item-comment,200,OK,Thread Group 1-8,text,true,,350,418,10,10,https://altashop-api.fly.dev/api/products/8705/comments,116,0,0
+1674027137166,115,products-get-item-comment,200,OK,Thread Group 1-4,text,true,,350,418,10,10,https://altashop-api.fly.dev/api/products/8702/comments,115,0,0
+1674027137232,49,products-delete-item-invalid,500,Internal Server Error,Thread Group 1-7,text,true,,328,492,10,10,https://altashop-api.fly.dev/api/products/0,49,0,0
+1674027137233,68,orders-get-by-id,200,OK,Thread Group 1-2,text,true,,394,404,10,10,https://altashop-api.fly.dev/api/orders/1,67,0,0
+1674027137232,79,categories-get-by-id,200,OK,Thread Group 1-9,text,true,,337,408,10,10,https://altashop-api.fly.dev/api/categories/1,79,0,0
+1674027137233,86,categories-get-by-id,200,OK,Thread Group 1-10,text,true,,337,408,10,10,https://altashop-api.fly.dev/api/categories/1,86,0,0
+1674027137281,38,products-delete-item,200,OK,Thread Group 1-8,text,true,,285,495,10,10,https://altashop-api.fly.dev/api/products/8705,38,0,0
+1674027137232,146,orders-create-order,200,OK,Thread Group 1-1,text,true,,404,520,10,10,https://altashop-api.fly.dev/api/orders,146,0,0
+1674027137281,148,products-delete-item,200,OK,Thread Group 1-4,text,true,,285,495,10,10,https://altashop-api.fly.dev/api/products/8702,148,0,0
+1674027137281,148,categories-create-cateogry,200,OK,Thread Group 1-7,text,true,,340,526,10,10,https://altashop-api.fly.dev/api/categories,148,0,0
+1674027137378,59,orders-get-by-id,200,OK,Thread Group 1-1,text,true,,394,404,10,10,https://altashop-api.fly.dev/api/orders/1,59,0,0
+1674027137429,134,products-delete-item-invalid,500,Internal Server Error,Thread Group 1-4,text,true,,328,492,10,10,https://altashop-api.fly.dev/api/products/0,134,0,0
+1674027137319,244,products-delete-item-invalid,500,Internal Server Error,Thread Group 1-8,text,true,,328,492,10,10,https://altashop-api.fly.dev/api/products/0,244,0,0
+1674027137311,253,categories-get-all-category,200,OK,Thread Group 1-9,text,true,,50005,406,10,10,https://altashop-api.fly.dev/api/categories,118,0,0
+1674027137429,170,categories-get-by-id,200,OK,Thread Group 1-7,text,true,,337,408,10,10,https://altashop-api.fly.dev/api/categories/1,170,0,0
+1674027137564,35,categories-create-cateogry,200,OK,Thread Group 1-8,text,true,,340,526,10,10,https://altashop-api.fly.dev/api/categories,35,0,0
+1674027137564,60,categories-create-cateogry,200,OK,Thread Group 1-4,text,true,,340,526,10,10,https://altashop-api.fly.dev/api/categories,60,0,0
+1674027137564,60,orders-create-order,200,OK,Thread Group 1-9,text,true,,404,520,10,10,https://altashop-api.fly.dev/api/orders,60,0,0
+1674027137319,309,categories-get-all-category,200,OK,Thread Group 1-10,text,true,,50308,406,10,10,https://altashop-api.fly.dev/api/categories,244,0,0
+1674027137599,34,categories-get-by-id,200,OK,Thread Group 1-8,text,true,,337,408,10,10,https://altashop-api.fly.dev/api/categories/1,34,0,0
+1674027137624,163,orders-get-by-id,200,OK,Thread Group 1-9,text,true,,394,404,10,10,https://altashop-api.fly.dev/api/orders/1,163,0,0
+1674027137624,163,categories-get-by-id,200,OK,Thread Group 1-4,text,true,,337,408,10,10,https://altashop-api.fly.dev/api/categories/1,163,0,0
+1674027137629,167,orders-create-order,200,OK,Thread Group 1-10,text,true,,404,520,10,10,https://altashop-api.fly.dev/api/orders,167,0,0
+1674027137599,266,categories-get-all-category,200,OK,Thread Group 1-7,text,true,,50450,406,10,10,https://altashop-api.fly.dev/api/categories,218,0,0
+1674027137633,266,categories-get-all-category,200,OK,Thread Group 1-8,text,true,,50506,406,10,10,https://altashop-api.fly.dev/api/categories,231,0,0
+1674027137796,287,orders-get-by-id,200,OK,Thread Group 1-10,text,true,,394,404,10,10,https://altashop-api.fly.dev/api/orders/1,287,0,0
+1674027137865,218,orders-create-order,200,OK,Thread Group 1-7,text,true,,404,520,10,10,https://altashop-api.fly.dev/api/orders,218,0,0
+1674027137899,184,orders-create-order,200,OK,Thread Group 1-8,text,true,,404,520,10,10,https://altashop-api.fly.dev/api/orders,184,0,0
+1674027137787,326,categories-get-all-category,200,OK,Thread Group 1-4,text,true,,50479,406,10,10,https://altashop-api.fly.dev/api/categories,282,0,0
+1674027138084,111,orders-get-by-id,200,OK,Thread Group 1-7,text,true,,394,404,10,10,https://altashop-api.fly.dev/api/orders/1,110,0,0
+1674027138084,111,orders-get-by-id,200,OK,Thread Group 1-8,text,true,,394,404,10,10,https://altashop-api.fly.dev/api/orders/1,110,0,0
+1674027138113,93,orders-create-order,200,OK,Thread Group 1-4,text,true,,404,520,10,10,https://altashop-api.fly.dev/api/orders,93,0,0
+1674027138207,109,orders-get-by-id,200,OK,Thread Group 1-4,text,true,,394,404,10,10,https://altashop-api.fly.dev/api/orders/1,109,0,0
+1674027136290,15449,orders-get-all-orders,200,OK,Thread Group 1-5,text,true,,283,402,10,10,https://altashop-api.fly.dev/api/orders,15449,0,0
+1674027136822,15498,orders-get-all-orders,200,OK,Thread Group 1-6,text,true,,283,402,9,9,https://altashop-api.fly.dev/api/orders,15498,0,0
+1674027137301,15019,orders-get-all-orders,200,OK,Thread Group 1-2,text,true,,283,402,9,9,https://altashop-api.fly.dev/api/orders,15019,0,0
+1674027137437,14895,orders-get-all-orders,200,OK,Thread Group 1-1,text,true,,283,402,7,7,https://altashop-api.fly.dev/api/orders,14895,0,0
+1674027136821,15610,orders-get-all-orders,200,OK,Thread Group 1-3,text,true,,283,402,6,6,https://altashop-api.fly.dev/api/orders,15609,0,0
+1674027137787,14835,orders-get-all-orders,200,OK,Thread Group 1-9,text,true,,283,402,5,5,https://altashop-api.fly.dev/api/orders,14835,0,0
+1674027138084,14699,orders-get-all-orders,200,OK,Thread Group 1-10,text,true,,283,402,4,4,https://altashop-api.fly.dev/api/orders,14699,0,0
+1674027138316,14533,orders-get-all-orders,200,OK,Thread Group 1-4,text,true,,283,402,3,3,https://altashop-api.fly.dev/api/orders,14533,0,0
+1674027138195,14680,orders-get-all-orders,200,OK,Thread Group 1-8,text,true,,283,402,2,2,https://altashop-api.fly.dev/api/orders,14680,0,0
+1674027138195,14687,orders-get-all-orders,200,OK,Thread Group 1-7,text,true,,283,402,1,1,https://altashop-api.fly.dev/api/orders,14687,0,0
